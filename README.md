@@ -22,7 +22,7 @@ You just need Python 3.x and a few dependencies.
 pip install edge-tts ebooklib beautifulsoup4
 ```
 
-⚡ How to run it
+How to run it
 ```bash
 Clone this repo or download epub_to_mp3_with_bar.py.
 ```
@@ -50,4 +50,5 @@ Speed: A standard novel takes about 25-30 minutes to convert. given the fact tha
 Don't open the file while it's running: The script appends binary data to the MP3 in real-time. If you try to play it while it's converting, it might lock the file and crash the script.
 
 # License
+
 be free. if you create new features or build off of this program, just credit me or smt. thanks!
